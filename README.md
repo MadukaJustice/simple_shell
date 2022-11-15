@@ -1,1 +1,1 @@
-A readme on simple_shell project
+A readme file on simple_shell project
